@@ -1,0 +1,14 @@
+{
+  "name": "call-khalin",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": { "dev": "next dev", "build": "next build", "start": "next start" },
+  "dependencies": {
+    "@mediapipe/tasks-vision": "0.10.14",
+    "livekit-client": "^2.5.0",
+    "livekit-server-sdk": "^2.7.0",
+    "next": "14.2.15",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  }
+}
